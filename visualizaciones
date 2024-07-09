@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Power BI Embedded</title>
+</head>
+<body>
+    <h1>Power BI Embedded Test</h1>
+   <iframe title="SERIE PRESUPUESTO NACION" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiMGMxOTllZTQtMzE5Yi00MDA5LTgyYWUtMWM3MWE4ZGJjMzYwIiwidCI6ImNhNThkMmE2LWViNTAtNDJhNi04MmVmLWYzYzY3NDM4MTZhNSIsImMiOjR9" frameborder="0" allowFullScreen="true"></iframe>
+</body>
+</html>
